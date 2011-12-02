@@ -1,0 +1,27 @@
+Hey there!
+
+Thank you for writing up the code. It looks good so far. 
+
+In case there may have been a miscommunication, 
+the challenge specification includes not only writing the code, 
+but using a testing framework to test the code you are writing. 
+Please review the original specs below:
+
+ORIGINAL_SPECS:
+DONE 
+"Write a program in php that prints the numbers from 5 to 150. But for multiples of three print “Zap” instead of the number and for the multiples of 4 print “Zoo”. For numbers which are multiples of both three and four print “zapzoo”."
+
+NOT YET DELIVERED
+Deliver unit tests for the program in PHP in your preferred testing framework
+
+DONE
+Do the same program in javascript.
+
+NOT YET DELIVERED
+Deliver unit tests for the program in Javascript in your preferred testing framework
+
+PARTIALLY DONE
+Post both programs and tests up on Github, and send us a link to the repo, so we can review and run the code.
+
+DONE
+Please include a screen shot or some other verification that the code runs.
