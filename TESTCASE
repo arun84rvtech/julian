@@ -1,0 +1,37 @@
+As This is unit testing so all test cases are created by Developer. No Framework is used.
+
+Program To Print Number B/w 5 - 150 with specific conditions
+
+Test Case 1:
+   Enter Loop Limit: -1
+   Actual Result: Error Message
+
+Test Case 2:
+   Enter Loop Limit: 3432
+   Actual Result: Error Message
+
+Test Case 3:
+   Enter Loop Limit: abcd
+   Actual Result: Error Message
+
+Test Case 4:
+   Enter Loop Limit: 75
+   Actual Result: Perfect
+
+
+For Javascript Same Cases will be valid:
+Test Case 1:
+   Enter Loop Limit: -1
+   Actual Result: Error Message
+
+Test Case 2:
+   Enter Loop Limit: 3432
+   Actual Result: Error Message
+
+Test Case 3:
+   Enter Loop Limit: abcd
+   Actual Result: Error Message
+
+Test Case 4:
+   Enter Loop Limit: 75
+   Actual Result: Perfecto
